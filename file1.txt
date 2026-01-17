@@ -1,6 +1,2 @@
 This is my demo file.
-<<<<<<< HEAD
 New Enhancements.
-=======
-2nd line added.
->>>>>>> 39072265fdef1f5ba1a8f26247114f83623dcc1f
